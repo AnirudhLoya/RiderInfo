@@ -8,6 +8,7 @@ is usually equivalent to the device's current location.
 The accuracy of the location returned is based on the location
 permissions you've requested and the location sensors that are currently active
 for the device.
+Stores the data Rider speed,Max speed and avg speed,and ride distance 
 
 To run this sample, **location must be enabled**.
 

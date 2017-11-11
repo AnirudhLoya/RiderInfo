@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Rider</string>
+    <string name="speed">SPEED</string>
+    <string name="kmph">0 KMPH</string>
+    <string name="max_speed">MAX SPEED</string>
+    <string name="avg_speed">AVG SPEED</string>
+    <string name="ride_distance">RIDE DISTANCE</string>
+    <string name="km">0 KM</string>
+    <string name="ride_time">RIDE TIME</string>
+    <string name="sec">0 SEC</string>
 </resources>
